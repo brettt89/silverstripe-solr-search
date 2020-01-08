@@ -1,5 +1,5 @@
 {
-  "name": "firesphere/solr-search",
+  "name": "silverstripe/fulltextsearch",
   "description": "Search a SilverStripe site with Solr",
   "type": "silverstripe-vendormodule",
   "license": "BSD-3-Clause",
